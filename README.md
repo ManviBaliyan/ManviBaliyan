@@ -1,5 +1,7 @@
-🌸Hey there, I'm so glad you're here!
-** Welcome to my little corner of Github! **
+#🌸Hey there, I'm so glad you're here!
+
+
+Welcome to my little corner of Github! 
 I'm passionate about growing in my career, picking up new tech skills, and making work life a little less overwhelming(and a lot more fun). Here, you'll find: 
 
 - 🔭 Projects I'm building or contributing to
