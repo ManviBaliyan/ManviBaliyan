@@ -1,4 +1,16 @@
+🌸Hey there, I'm so glad you're here!
+** Welcome to my little corner of Github! **
+I'm passionate about growing in my career, picking up new tech skills, and making work life a little less overwhelming(and a lot more fun). Here, you'll find: 
 
+- 🔭 Projects I'm building or contributing to
+- 📚 Things I've learned while juggling work,deadline and debugging
+- 🌱 Bits of inspiration for anyone trying to survive--and thrive--in the corporate jungle
+
+Whether you're here to find useful code, get inspired, or just see how someone else is figuring
+
+*Let's connect,learn,and grow together--one repo at a time.*
+You bring the snacks,I'll brint the code 🍪💻
+  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/peehu__baliyan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/posts/manvi-baliyan-508b46281_powerbi-datavisualization-mobilesalesdashboard-activity-7346452906461564928-yMsc?utm_source=share&utm_medium=member_android&rcm=ACoAAESww1gB_GMB_rLAcbilh5VTHBskCC55Cpk) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manvibaliyan2006@gmail.com) 
 
