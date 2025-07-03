@@ -1,4 +1,5 @@
 #🌸Hey there, I'm so glad you're here!
+💫 Hi 👋, I'm Imran Alam
 
 
 Welcome to my little corner of Github! 
@@ -11,6 +12,7 @@ I'm passionate about growing in my career, picking up new tech skills, and makin
 Whether you're here to find useful code, get inspired, or just see how someone else is figuring
 
 *Let's connect,learn,and grow together--one repo at a time.*
+
 You bring the snacks,I'll brint the code 🍪💻
   
 ## 🌐 Socials:
